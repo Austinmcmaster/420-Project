@@ -1,0 +1,12 @@
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.deps.json
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\refint\ConsignmentShopLibrary.dll
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\Users\Austi\source\repos\ConsignmentShopLibrary\obj\Debug\net6.0\ref\ConsignmentShopLibrary.dll
